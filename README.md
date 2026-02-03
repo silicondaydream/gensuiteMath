@@ -3,7 +3,7 @@
 GenThr33 is a showy, interactive CLI for generating digits of pi, listing primes, and running math benchmarks. It mixes a neon‑style UI with a Rust helper for fast computation and reliable timing.
 
 <p align="center">
-  <img src="/demoImg.png" alt="GenThr33 CLI demo" width="400" height="380"/>
+  <img src="/public/demoImg.png" alt="GenThr33 CLI demo" width="400" height="380"/>
 </p>
 
 ## Why this exists

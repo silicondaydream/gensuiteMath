@@ -1,6 +1,6 @@
 {
   "name": "gensuitemath",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "description": "GenSuite now with GenThr33 Arithmetic benchmarker.",
   "author": "ChrisAdams.io",

@@ -1,5 +1,5 @@
 {
-  "name": "gensuitemath",
+  "name": "@silicondaydream/gensuitemath",
   "version": "0.1.0",
   "private": false,
   "description": "GenSuite now with GenThr33 Arithmetic benchmarker.",

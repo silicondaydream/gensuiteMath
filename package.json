@@ -1,0 +1,30 @@
+{
+  "name": "gensuitemath",
+  "version": "0.1.0",
+  "private": false,
+  "description": "GenSuite now with GenThr33 Arithmetic benchmarker.",
+  "author": "ChrisAdams.io",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "pi",
+    "primes",
+    "benchmark"
+  ],
+  "type": "module",
+  "bin": {
+    "gensuite": "gensuite.js"
+  },
+  "scripts": {
+    "start": "node gensuite.js",
+    "build:helper": "cargo build --manifest-path gensuite-helper/Cargo.toml --release"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.5",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.3.7",
+    "ora": "^8.0.1"
+  }
+}
